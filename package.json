@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "//github.com/twochemist/malandrinerlinks.git"
+    "url": "//github.com/uvacoder/abc-dev-links.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/twochemist/malandrinerlinks/issues"
+    "url": "https://github.com/uvacoder/abc-dev-links/issues"
   },
-  "homepage": "https://github.com/twochemist/malandrinerlinks#readme"
+  "homepage": "https://github.com/uvacoder/abc-dev-links#readme"
 }
